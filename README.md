@@ -73,6 +73,6 @@ Silver Prize at IPS IT/AI Competition
 ### 📜 Certifications
 
 `Nov 2025` **ADsP** · Advanced Data Analytics Semi-Professional  
-`Nov 2025` **SQLD** · SQL Developer
+`Dec 2025` **SQLD** · SQL Developer
 
 
