@@ -58,14 +58,19 @@ Development club member
 
 **Baseball Game** · Number Guessing Game with Pygame  
 `Summer 2023` · [View Project](https://github.com/isliese/BaseballGame)
+
 **Parking Zone Management System** · License Plate Recognition for Disabled Parking  
 `Spring 2024` · [View Project](https://github.com/isliese/ParkingZoneManagementSystemForDisabled)
+
 **Detecting-Stranger** · Smart Doorbell Face Recognition  
 `Summer 2024` · [View Project](https://github.com/isliese/Detecting-Stranger)
+
 **Keyosk** · Face Recognition Kiosk for Digital Inclusivity  
 `May 2025` · [View Project](https://github.com/IPS-Keyosk)  
 Silver Prize at IPS IT/AI Competition
+
 **BaioBrief** · Daewoong AI Hackathon Project  
 `Sep 2025` · Grand Prize Winner
+
 **AutoNet** · Vehicle-to-Vehicle Communication for Autonomous Driving  
 `Sep 2025 - Dec 2025` · [View Project](https://github.com/2025-Fall-Network-Capstone)
