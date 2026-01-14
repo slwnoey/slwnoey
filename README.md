@@ -5,6 +5,8 @@
 **AI Engineering, 4th Year @ Sookmyung Women's University**  
 `2023 - Present`
 
+📩 **dlduswls0121@sookmyung.ac.kr**
+
 ---
 
 ### 🎓 Experience
@@ -47,7 +49,3 @@ Development club member
 
 **ADsP** · Advanced Data Analytics Semi-Professional  
 **SQLD** · SQL Developer
-
----
-
-📬 **dlduswls0121@sookmyung.ac.kr**
