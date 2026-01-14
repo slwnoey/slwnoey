@@ -1,7 +1,3 @@
-<div align="center">
-
-# Hello World! 👋
-
 ## Yeonjin Lee
 
 **AI Engineering, 4th Year @ Sookmyung Women's University**  
