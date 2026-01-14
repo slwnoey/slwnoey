@@ -11,13 +11,13 @@
 
 ### 🎓 Experience
 
-`2023 - 2024` **CODE-IT**  
+`Mar 2023 - Aug 2024` **CODE-IT**  
 Development club member
 
-`2025 - Present` **Big Data Innovation Business Supporter**  
+`Apr 2025 - Present` **Big Data Innovation Business Supporter**  
 숙명여대 빅데이터혁신사업융합단 서포터즈
 
-`2025 - Present` **Daewoong Foundation Global Scholar**  
+`Dec 2025 - Present` **Daewoong Foundation Global Scholar**  
 대웅재단 글로벌 장학생 · Welda팀 프로젝트 진행
 
 ---
@@ -47,5 +47,5 @@ Development club member
 
 ### 📜 Certifications
 
-**ADsP** · Advanced Data Analytics Semi-Professional  
-**SQLD** · SQL Developer
+`Nov 2025` **ADsP** · Advanced Data Analytics Semi-Professional  
+`Nov 2025` **SQLD** · SQL Developer
