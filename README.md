@@ -48,6 +48,8 @@ Development club member
 `Nov 2025` **ADsP** · Advanced Data Analytics Semi-Professional  
 `Nov 2025` **SQLD** · SQL Developer
 
+<br>
+
 ---
 
 ### 💼 Projects
