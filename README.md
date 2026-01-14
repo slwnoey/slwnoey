@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Yeonjin Lee
 
 **AI Engineering, 4th Year @ Sookmyung Women's University**  
