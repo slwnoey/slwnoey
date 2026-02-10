@@ -62,12 +62,6 @@ Silver Prize at IPS IT/AI Competition
 
 ### 💻 Tech
 
-![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
-
 ---
 
 ### 📜 Certifications
